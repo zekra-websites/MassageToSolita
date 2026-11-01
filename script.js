@@ -1,6 +1,6 @@
 /* ================= الباسورد ================= */
 
-const correctPassword = "love";
+const correctPassword = "ssss";
 
 
 function checkPassword() {
@@ -122,7 +122,7 @@ function toggleMusic() {
 
 /* ================= العداد ================= */
 
-const startDate = new Date("2026-02-15T00:00:00");
+const startDate = new Date("2011-07-13T00:00:00");
 
 
 function updateCounter() {
